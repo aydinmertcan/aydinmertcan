@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mert Can Aydın</h1>
-<h3 align="center">Junior Backend Developer from Turkey</h3>
+<h3 align="center">Junior Full Stack Java Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aydinmertcan&label=Profile%20views&color=0e75b6&style=flat" alt="aydinmertcan" /> </p>
 
-- 🌱 I’m currently learning **Node.js, Java**
+- 🌱 I’m currently learning Java**
 
 - 📫 How to reach me **ayd.mertcan@gmail.com**
 
