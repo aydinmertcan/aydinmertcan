@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aydinmertcan&label=Profile%20views&color=0e75b6&style=flat" alt="aydinmertcan" /> </p>
 
-- 🌱 I’m currently learning **Java
-
 - 📫 How to reach me **ayd.mertcan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
